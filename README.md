@@ -109,6 +109,10 @@ A collection of awesome things regarding the Pocket ecosystem.
 - Sharable components document
   - [Storybook](https://storybook.js.org/)
 
+#### Conf Advance
+
+- [Goodbye, useEffect - David Khourshid](https://www.youtube.com/watch?v=bGzanfKVFeU&t=16s&ab_channel=BeJS)
+
 ### CSS
 
 #### Youtube

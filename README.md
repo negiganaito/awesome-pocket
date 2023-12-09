@@ -30,6 +30,9 @@ A collection of awesome things regarding the Pocket ecosystem.
 - [RealWorldReact](https://www.youtube.com/@RealWorldReact/videos)
 - [ReactFinland](https://www.youtube.com/@ReactFinland)
 
+#### UI Clone
+- [Food Ordering App](https://www.youtube.com/watch?v=nGoSP3MBV2E&ab_channel=CodingWithDawid)
+
 ### Blog
 
 - [Josh comeau](https://www.joshwcomeau.com/)
